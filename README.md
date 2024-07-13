@@ -44,11 +44,11 @@ Follow these instructions to set up and run your project on your local machine f
 
 
 ## Screenshots
-
+![Alt text](https://www2.online-converting.com/upload/api_a18dbf9d19/result.jpg)
 
 ## screen recording
 
-![Alt text](https://www2.online-converting.com/upload/api_8b5f570c6d/result.jpg)
+
 
 ## License
 
