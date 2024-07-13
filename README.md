@@ -48,7 +48,7 @@ Follow these instructions to set up and run your project on your local machine f
 
 ## screen recording
 
-![Alt text](https://www2.online-converting.com/upload/api_f5f2913117/result.jpg)
+![Alt text](https://www2.online-converting.com/upload/api_8b5f570c6d/result.jpg)
 
 ## License
 
