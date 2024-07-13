@@ -1,9 +1,9 @@
 
 ## Flutter Task
 
-##Key Features:
+## Key Features:
 
-##Calender Screen:
+## Calender Screen:
 
 - Displays the current date and day in Bengali.
 - Shows a calendar view with the current week highlighted.
@@ -14,7 +14,7 @@
   - Lists scheduled tasks for the current day.
   - Each task includes the time, a description, and location details.
 
-##Home Screen:
+## Home Screen:
 
 - Displays user profile information, including a profile picture placeholder and the user's name (মোঃ মোহাইমেনুল রেজা).
 - Shows company affiliation (সফটবিডি লিমিটেড) and location (Dhaka).
@@ -22,7 +22,7 @@
 - Membership expiration date (January 1, 2024 - January 31, 2030) and remaining time.
 - Various membership categories and associated numbers.
 
-##Add New Task/Event:
+## Add New Task/Event:
 
 - Allows users to input details for a new task or event.
 - Fields include:
@@ -78,6 +78,6 @@ List of Package or Resources used in your app
 - flutter_svg: ^2.0.10
 - flutter_launcher_icons: ^0.13.1
 
-## Authors
+## Author
 
 - Sukanta Mukherjee - sukanto3073
