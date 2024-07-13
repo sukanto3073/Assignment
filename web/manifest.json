@@ -1,6 +1,6 @@
 {
-    "name": "asignment",
-    "short_name": "asignment",
+    "name": "flutter_assignment",
+    "short_name": "flutter_assignment",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
