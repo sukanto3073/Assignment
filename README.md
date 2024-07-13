@@ -47,7 +47,7 @@ Follow these instructions to set up and run your project on your local machine f
 
 
 ## screen recording
-![WhatsApp Image 2024-06-03 at 14 00 23_f3f647e4](https://github.com/user-attachments/assets/f3d37ff2-5ce2-44fe-91f1-b4263ae03905)
+https://www2.online-converting.com/upload/api_c2230ab5e3/result.jpg
 
 ## License
 
