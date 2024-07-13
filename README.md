@@ -29,7 +29,7 @@ Follow these instructions to set up and run your project on your local machine f
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/[your-username]/[your-repo-name].git
+    git clone https://github.com/sukanto3073/Assignment.git
     ```
 2. Open the project in your preferred IDE (Android Studio or Visual Studio Code).
 3. Get the dependencies:
@@ -46,8 +46,8 @@ Follow these instructions to set up and run your project on your local machine f
 ## Screenshots
 ![Alt text](https://www2.online-converting.com/upload/api_a18dbf9d19/result.jpg)
 
-## screen recording
-
+## Screen recording
+[![YouTube](http://i.ytimg.com/vi/Pjk4LvSoFR8/hqdefault.jpg)](https://www.youtube.com/watch?v=Pjk4LvSoFR8)
 
 
 ## License
