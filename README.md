@@ -66,6 +66,8 @@ Follow these instructions to set up and run your project on your local machine f
 ## Screen recording
 [![YouTube](http://i.ytimg.com/vi/Pjk4LvSoFR8/hqdefault.jpg)](https://www.youtube.com/watch?v=Pjk4LvSoFR8)
 
+## Download Apk :
+ [click me to download](https://drive.google.com/file/d/1pSMTiatXPM2hIolMmS4R44nZVXxe_fVB/view?usp=sharing)
 
 ## Acknowledgments
 
